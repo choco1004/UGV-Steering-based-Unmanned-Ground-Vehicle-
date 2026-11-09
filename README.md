@@ -1,6 +1,9 @@
 # UGV-Steering-based-Unmanned-Ground-Vehicle-
 UGV(Steering-based Unmanned Ground Vehicle)
 
+YOU TUBE : https://www.youtube.com/watch?v=rVFDPp1aU18
+MATLAB : https://drive.mathworks.com/sharing/4bed6a32-9ec0-4a25-9ff8-3bef3acf135d/movement.mat
+
 
 %% 5. Ackermann-style UGV Simulation
 % Kinematic Bicycle Model + Pure Pursuit
